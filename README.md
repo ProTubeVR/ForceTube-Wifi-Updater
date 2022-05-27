@@ -12,3 +12,17 @@ Download the app documentation and follow the instructions  :
 Changelog : 
 
 - v64 : Allows you to turn of the ForceTube while charging (it will stay on but will receive no request from your PC / Headset).
+
+Recognize your ForceTube :
+
+ForceTube : 
+![ForceTube](https://github.com/ProTubeVR/ForceTube-Wifi-Updater/blob/main/Versions/ForceTube/ForceTube.png)   
+
+ForceTube Storm :
+![ForceTube Storm](https://github.com/ProTubeVR/ForceTube-Wifi-Updater/blob/main/Versions/ForceTube%20Storm/ForceTube%20Storm.png)   
+
+ForceTube Explorer :
+![ForceTube Explorer](https://github.com/ProTubeVR/ForceTube-Wifi-Updater/tree/main/Versions/ForceTube%20Explorer)   
+
+ProVolver Explorer : 
+![ProVolver](https://github.com/ProTubeVR/ForceTube-Wifi-Updater/blob/main/Versions/Provolver%20Explorer/Provolver%20Explorer.png)   
