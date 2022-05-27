@@ -8,3 +8,7 @@ Download the version you want to intall on your ForceTubeVR from the "Versions" 
 Download the app documentation and follow the instructions  : 
  - https://www.protubevr.com/fr/index.php?controller=attachment&id_attachment=53 (English version)
  - https://www.protubevr.com/fr/index.php?controller=attachment&id_attachment=54 (French version)
+
+Changelog : 
+
+- v64 : Allows you to turn of the ForceTube while charging (it will stay on but will receive no request from your PC / Headset).
