@@ -17,16 +17,16 @@ Recognize your ForceTube :
 
 ForceTube :
    
-<img src="https://github.com/ProTubeVR/ForceTube-Wifi-Updater/blob/main/Versions/ForceTube/ForceTube.png" width="300")>  
+<img src="https://github.com/ProTubeVR/ForceTube-Wifi-Updater/blob/main/Versions/ForceTube/ForceTube.png" width="300">  
 
 ForceTube Storm :
    
-<img src="https://github.com/ProTubeVR/ForceTube-Wifi-Updater/blob/main/Versions/ForceTube%20Storm/ForceTube%20Storm.png" width="300")>
+<img src="https://github.com/ProTubeVR/ForceTube-Wifi-Updater/blob/main/Versions/ForceTube%20Storm/ForceTube%20Storm.png" width="300">
 
 ForceTube Explorer :
    
-<img src="https://github.com/ProTubeVR/ForceTube-Wifi-Updater/blob/main/Versions/ForceTube%20Explorer/ForceTube%20Explorer.png" width="300")>
+<img src="https://github.com/ProTubeVR/ForceTube-Wifi-Updater/blob/main/Versions/ForceTube%20Explorer/ForceTube%20Explorer.png" width="300">
 
 ProVolver Explorer : 
    
-<img src="https://github.com/ProTubeVR/ForceTube-Wifi-Updater/blob/main/Versions/Provolver%20Explorer/Provolver%20Explorer.png" width="300")>
+<img src="https://github.com/ProTubeVR/ForceTube-Wifi-Updater/blob/main/Versions/Provolver%20Explorer/Provolver%20Explorer.png" width="300">
